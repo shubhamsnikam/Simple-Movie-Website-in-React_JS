@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 # Technologies Used :
 React.js: Frontend framework for building UI components and managing state.
